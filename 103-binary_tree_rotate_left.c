@@ -2,6 +2,7 @@
 
 /**
  * binary_tree_rotate_left - performs left-rotation on a binary tree.
+ * Description - rotates a binary tree to the left.
  * @tree: pointer to the root node of the binary tree.
  * Return - pointer to the new root node of the rotated binary tree.
  */
